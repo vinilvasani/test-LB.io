@@ -1,0 +1,326 @@
+@import url("https://fonts.googleapis.com/css?family=Heebo:300,400,500,700,800,900");
+body {
+  background: #fff;
+  font-family: "Heebo", sans-serif; }
+
+h1 {
+  font-weight: bold; }
+
+.company-logo {
+  display: block;
+  width: 198px;
+  height: 30px;
+  margin-left: 38px; }
+
+.navbar-brand {
+  padding-top: 16px !important; }
+
+.nav-link {
+  font-weight: 500 !important;
+  line-height: 19px !important;
+  text-align: left !important;
+  color: #333 !important;
+  font-size: 13px !important;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: 1.3px;
+  padding-top: 16px !important; }
+
+.navbar-btn {
+  display: inline-block;
+  width: 153px;
+  height: 36px;
+  border-radius: 5px;
+  background-color: #ff5a5f;
+  text-align: center;
+  padding: 8px 0;
+  font-weight: 500;
+  color: #fff !important;
+  font-size: 13px !important;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: 1.7px;
+  margin-top: 6.5px; }
+
+.jumbotron_1 {
+  margin-top: 3em;
+  padding: 50px 108px; }
+  .jumbotron_1 .jumbotron_1_column {
+    background: #fff;
+    padding: 20px 20px; }
+    .jumbotron_1 .jumbotron_1_column h1 {
+      display: block;
+      text-align: left;
+      width: 500px;
+      font-size: 44px; }
+    .jumbotron_1 .jumbotron_1_column p {
+      margin-top: 18px; }
+    .jumbotron_1 .jumbotron_1_column .search {
+      box-shadow: 0 12px 60px -10px #ddd;
+      background-color: #ffffff;
+      margin-bottom: 50px;
+      width: 430px; }
+      .jumbotron_1 .jumbotron_1_column .search i {
+        color: #cccccc;
+        margin-left: 5px; }
+      .jumbotron_1 .jumbotron_1_column .search .search_1 {
+        display: inline;
+        width: 200px;
+        border: none;
+        font-size: 15px;
+        font-weight: 300;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.47;
+        letter-spacing: normal;
+        text-align: left;
+        color: #bbbbbb; }
+      .jumbotron_1 .jumbotron_1_column .search .search_2 {
+        display: inline;
+        width: 200px;
+        border-left: none;
+        border-right: none;
+        border-top: none;
+        border-bottom: none;
+        font-size: 15px;
+        font-weight: 300;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.47;
+        letter-spacing: normal;
+        text-align: right;
+        color: #bbbbbb;
+        border-radius: 0px; }
+    .jumbotron_1 .jumbotron_1_column .jumbotron_1_column_buttons .jumbotron_1_column_buttons_1 {
+      display: inline-block;
+      width: 120px;
+      height: 48px;
+      border-radius: 5px;
+      background-color: #ff5a5f;
+      float: left;
+      margin-right: 26px !important;
+      text-align: center;
+      padding: 13px 0;
+      font-weight: 500;
+      color: #fff !important;
+      font-size: 13px !important;
+      font-style: normal;
+      font-stretch: normal;
+      letter-spacing: 1.7px; }
+    .jumbotron_1 .jumbotron_1_column .jumbotron_1_column_buttons .jumbotron_1_column_buttons_2 {
+      display: inline-block;
+      width: 120px;
+      height: 48px;
+      border-radius: 5px;
+      background-color: #fff;
+      text-align: center;
+      padding: 13px 0;
+      font-weight: 500;
+      color: #ff5a5f !important;
+      font-size: 13px !important;
+      font-style: normal;
+      font-stretch: normal;
+      letter-spacing: 1.7px; }
+    .jumbotron_1 .jumbotron_1_column .jumbotron_1_column_image {
+      display: block;
+      width: 464px;
+      height: 350px;
+      margin-left: auto;
+      margin-right: auto; }
+
+.jumbotron_2 {
+  margin-top: 5.5em;
+  padding: 50px 128px;
+  background: #fdfdfd; }
+  .jumbotron_2 span {
+    font-size: 36px;
+    line-height: 53px;
+    text-align: left;
+    font-weight: 300;
+    color: #333; }
+    .jumbotron_2 span .listings {
+      font-weight: 500; }
+
+.card_deck_1 {
+  margin-top: 0em;
+  padding: 50px 115px;
+  background: #fdfdfd; }
+  .card_deck_1 .card {
+    padding-top: 24px;
+    padding-bottom: 10px;
+    border: none;
+    box-shadow: 0 2px 15px 0 rgba(0, 0, 0, 0.1);
+    border-radius: 5px; }
+    .card_deck_1 .card .card-body h6 {
+      text-align: left;
+      font-size: 12px;
+      font-weight: 300;
+      color: #333; }
+    .card_deck_1 .card .card-body h5 {
+      margin-top: 1em;
+      margin-bottom: 4px;
+      text-align: left;
+      font-size: 16px;
+      color: #333;
+      font-weight: 500; }
+    .card_deck_1 .card .card-body .card_price {
+      margin-top: 1.5em;
+      font-size: 16px;
+      color: #333;
+      font-weight: 400 !important;
+      font-style: normal;
+      font-stretch: normal;
+      line-height: 1.5;
+      letter-spacing: normal;
+      text-align: left; }
+      .card_deck_1 .card .card-body .card_price span {
+        opacity: 0.55; }
+    .card_deck_1 .card .card-body .purple_tag {
+      display: inline-block;
+      width: 74px;
+      height: 18px;
+      border-radius: 24px;
+      border: solid 1px #6c63ff;
+      background-color: rgba(108, 99, 255, 0.2);
+      text-align: center;
+      padding-top: 2px;
+      padding-bottom: auto;
+      font-size: 10px;
+      font-weight: normal;
+      font-style: normal;
+      font-stretch: normal;
+      letter-spacing: normal;
+      color: #6c63ff;
+      margin-right: 6px; }
+    .card_deck_1 .card .card-body .green_tag {
+      display: inline-block;
+      width: 74px;
+      height: 18px;
+      border-radius: 24px;
+      border: solid 1px #44d63f;
+      background-color: rgba(68, 214, 63, 0.2);
+      text-align: center;
+      padding-top: 2px;
+      padding-bottom: auto;
+      font-size: 10px;
+      font-weight: normal;
+      font-style: normal;
+      font-stretch: normal;
+      letter-spacing: normal;
+      color: #44d63f;
+      margin-right: 6px; }
+    .card_deck_1 .card .card-body .buyers_and_days {
+      display: block;
+      margin-top: 24px; }
+      .card_deck_1 .card .card-body .buyers_and_days .intrested_buyers {
+        display: block;
+        font-size: 11px;
+        text-align: left;
+        width: 100px;
+        float: left; }
+      .card_deck_1 .card .card-body .buyers_and_days .days_passed {
+        display: block;
+        float: right;
+        font-size: 11px;
+        width: 70px;
+        text-align: right; }
+
+.card_showmore {
+  display: block;
+  margin: 0px auto;
+  background-color: #fdfdfd;
+  text-align: center;
+  font-weight: 500;
+  color: #ff5a5f !important;
+  font-size: 13px !important;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: 1.7px;
+  margin-bottom: 15px;
+  padding-bottom: 45px; }
+
+.jumbotron_3 {
+  background: #fe9b9e;
+  padding: 100px 128px; }
+  .jumbotron_3 .jumbotron_3_column_1 {
+    margin-top: 1em;
+    height: 350px;
+    background: #fe9b9e; }
+    .jumbotron_3 .jumbotron_3_column_1 span {
+      font-size: 36px;
+      line-height: 53px;
+      text-align: left;
+      font-weight: 300;
+      color: #fff; }
+      .jumbotron_3 .jumbotron_3_column_1 span .service_providers {
+        font-weight: 500; }
+  .jumbotron_3 .jumbotron_3_column_2 {
+    background: #fe9b9e; }
+    .jumbotron_3 .jumbotron_3_column_2 .card_deck_2 .card {
+      border: none;
+      margin-bottom: 25px;
+      box-shadow: 0 2px 15px 0 rgba(0, 0, 0, 0.1);
+      background-color: #fefefe;
+      height: 150px;
+      width: 280px;
+      border-radius: 5px; }
+      .jumbotron_3 .jumbotron_3_column_2 .card_deck_2 .card .card-body {
+        padding: 40px 51px; }
+        .jumbotron_3 .jumbotron_3_column_2 .card_deck_2 .card .card-body .image_text_container {
+          margin-top: 0.4em;
+          margin-bottom: auto;
+          margin-right: auto;
+          margin-left: 1.8em; }
+          .jumbotron_3 .jumbotron_3_column_2 .card_deck_2 .card .card-body .image_text_container img {
+            width: 42px;
+            height: 53px; }
+          .jumbotron_3 .jumbotron_3_column_2 .card_deck_2 .card .card-body .image_text_container span {
+            font-size: 18px;
+            font-weight: 500;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: 1.5;
+            letter-spacing: normal;
+            text-align: center;
+            color: #333333;
+            margin-left: 10px; }
+    .jumbotron_3 .jumbotron_3_column_2 .showmore_btn {
+      display: block;
+      margin-top: 3.0em;
+      font-weight: 500;
+      color: #fff !important;
+      font-size: 14px !important;
+      font-style: normal;
+      font-stretch: normal;
+      letter-spacing: 1.7px; }
+
+.jumbotron_4 .jumbotron_4_column .jumbotron_4_column_container {
+  padding: 80px 68px;
+  margin-left: 2.9em; }
+  .jumbotron_4 .jumbotron_4_column .jumbotron_4_column_container img {
+    height: 56px;
+    width: 42px;
+    float: left; }
+  .jumbotron_4 .jumbotron_4_column .jumbotron_4_column_container .jumbotron_4_column_container_text {
+    display: inline-block;
+    margin-left: 20px;
+    width: 250px; }
+    .jumbotron_4 .jumbotron_4_column .jumbotron_4_column_container .jumbotron_4_column_container_text .jumbotron_4_column_container_text_1 {
+      font-size: 18px;
+      font-weight: 500;
+      font-style: normal;
+      font-stretch: normal;
+      line-height: 1.5;
+      letter-spacing: normal;
+      text-align: left;
+      color: #333333; }
+    .jumbotron_4 .jumbotron_4_column .jumbotron_4_column_container .jumbotron_4_column_container_text .jumbotron_4_column_container_text_2 {
+      margin-top: 0.4em;
+      font-size: 15px;
+      font-weight: 300;
+      font-style: normal;
+      font-stretch: normal;
+      line-height: 1.47;
+      letter-spacing: normal;
+      text-align: left;
+      color: #999999; }
